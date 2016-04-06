@@ -1,0 +1,22 @@
+Create a simple java application with appropriate maven dependency
+---------------------------------------
+include spring boot config in parent (if req)
+	<parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>1.3.3.RELEASE</version>
+    </parent>
+---------------------------------------
+include spring boot in the POM
+	<dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-web</artifactId>
+    </dependency>
+---------------------------------------
+CD into the individual module (not in parent)
+run using command:
+
+spring-boot:run 
+
+---------------------------------------
+---------------------------------------
