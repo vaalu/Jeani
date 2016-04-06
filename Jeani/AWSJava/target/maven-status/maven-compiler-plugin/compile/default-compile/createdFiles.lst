@@ -1,0 +1,10 @@
+in\jeani\app\data\SQLProcessor.class
+in\jeani\app\data\SQLConnection.class
+in\jeani\app\data\JdbcConnectionProperties.class
+in\jeani\app\entities\ACLExpression.class
+in\jeani\app\entities\ACLPermission.class
+in\jeani\app\entities\DefaultEntity.class
+in\jeani\app\entities\ACLControl.class
+in\jeani\app\AppConfig.class
+in\jeani\app\App.class
+in\jeani\app\data\JdbcConnectionFactory.class

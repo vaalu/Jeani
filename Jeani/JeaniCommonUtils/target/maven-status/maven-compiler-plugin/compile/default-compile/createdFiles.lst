@@ -1,0 +1,15 @@
+in\jeani\app\testsupport\BaseTest.class
+in\jeani\app\data\SQLProcessor.class
+in\jeani\app\AppConfiguration.class
+in\jeani\app\data\SQLConnection.class
+in\jeani\app\dao\ACLExpressionDAO.class
+in\jeani\app\dao\ACLControlDAO.class
+in\jeani\app\dto\AWSCredentials.class
+in\jeani\app\dao\ACLPermissionDAO.class
+in\jeani\app\data\JdbcConnectionProperties.class
+in\jeani\app\entities\DefaultEntity.class
+in\jeani\app\entities\ACLPermission.class
+in\jeani\app\entities\ACLExpression.class
+in\jeani\app\entities\ACLControl.class
+in\jeani\app\data\JdbcConnectionFactory.class
+in\jeani\app\App.class
